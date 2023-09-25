@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sid123:sid123@orangehealth-vvdnd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretissecret"
+}
